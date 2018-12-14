@@ -27,3 +27,5 @@ Link stations are located at points `(x, y)` and have reach `(r)`
 ```
 
 Print out function output from points `(x, y): (0,0), (100, 100), (15,10) and (18, 18).`
+
+Instructions for the node and python solution can be found in the directories.
