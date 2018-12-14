@@ -1,0 +1,13 @@
+{
+  "name": "powerlink",
+  "version": "1.0.0",
+  "description": "powerlink problem solving for Nordcloud",
+  "main": "src/powerlink.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node src/powerlink.js"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
